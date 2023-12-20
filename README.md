@@ -12,7 +12,6 @@ and other vehicles including toyota, mazda, ford, nissan, honda. Browse, compare
 sparepart sales and used motorbikes">
 <meta name="keywords" content="car, used cars, vehicle, dealer, parts, used motorbikes, car auctions/bid, sell car, buy car, driver recruitment, best garage">
 <meta name="author" content="Automart East Africa">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <title>Car | Shop</title>
 
