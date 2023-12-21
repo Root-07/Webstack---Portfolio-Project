@@ -12,7 +12,8 @@ and other vehicles including toyota, mazda, ford, nissan, honda. Browse, compare
 sparepart sales and used motorbikes">
 <meta name="keywords" content="car, used cars, vehicle, dealer, parts, used motorbikes, car auctions/bid, sell car, buy car, driver recruitment, best garage">
 <meta name="author" content="Automart East Africa">
-
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
 <title>Car | Shop</title>
 
 <meta name="msapplication-TileColor" content="#1F4255">
@@ -71,7 +72,7 @@ src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.10.2/mdb.min.js">
 <img src="http://127.0.0.1:8000/images/logo.png" alt="Car Sell Logo" height="60px"/>
   <!-- <h1>AUTOMART | EA</h1> -->
 <h6>BEST DEALS IN THE WORLD</h6></div>
-<div class="col-md-4 d-flex justify-content-end" style="padding-top: 25px; padding-left: 20px; "><h5 style="font-family:Garamond;"><b><a href="https://wa.me/qr/CXYMBING6ENYD1" target="_blank"><i class="far fa-comment me-3"></i> WhatsApp</a> or <i class="far fa fa-phone me-3"></i>+254 792 567 464</b></h5></div>
+<div class="col-md-4 d-flex justify-content-end" style="padding-top: 25px; padding-left: 20px; "><h5 style="font-family:Garamond;"><b><a href="https://wa.me/qr/CXYMBING6ENYD1" target="_blank"><i class="far fa-comment me-3"></i>
 </div>
 
 <!-- Navbar -->
